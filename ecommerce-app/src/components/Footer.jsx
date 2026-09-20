@@ -18,6 +18,7 @@ export default function Footer() {
             <Link to="/menu" className="hover:text-accent transition-colors">Menu</Link>
             <Link to="/about" className="hover:text-accent transition-colors">About Us</Link>
             <Link to="/contact" className="hover:text-accent transition-colors">Contact</Link>
+            <Link to="/admin" className="hover:text-accent transition-colors">Admin</Link>
           </div>
         </div>
 
