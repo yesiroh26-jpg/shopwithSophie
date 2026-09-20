@@ -1,2 +1,7 @@
 node_modules/
 ecommerce-app/node_modules/
+ecommerce-app/dist/
+.env
+.env.*
+.DS_Store
+Thumbs.db
